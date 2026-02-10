@@ -16,3 +16,4 @@ description = "neofetch for Steam - Display your Steam stats in terminal"
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call
